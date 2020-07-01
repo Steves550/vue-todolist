@@ -1,6 +1,6 @@
 Vue Todolist and Weather App
 ---HOW TO USE---
-- Type in city and country and hit enter to see the local weather.
+- Type in city and country then hit enter to see the local weather.
 - press enter or click the add button to add a task.
 
 ---Technology used---
