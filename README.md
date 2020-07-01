@@ -1,24 +1,10 @@
-# todolist
+Vue Todolist and Weather App
+---HOW TO USE---
+- Type in city and country and hit enter to see the local weather.
+- press enter or click the add button to add a task.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---Technology used---
+- Bootstrap for styling along with some custom CSS.
+- Vue CLI 3.
+- Axios to get weather api information.
+- Font Awesome for trash can icon.
